@@ -1,0 +1,2 @@
+# PayNexa
+Ethiopian payroll system 
